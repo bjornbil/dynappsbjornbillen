@@ -10,8 +10,9 @@
     'data': [
         'view/sale.xml',
         'view/picking.xml',
-        'view/warranty.xml'
-        'view/website_sale_templates.xml'
+        'view/warranty.xml',
+        'view/website_sale_templates.xml',
+        'view/account.xml'
     ],
     'installable': True,
     'auto_install': False,
